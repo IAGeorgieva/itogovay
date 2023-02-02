@@ -1,0 +1,15 @@
+/Users/anna/Desktop/итоговая работа/lessen/bin/Debug/net7.0/lessen
+/Users/anna/Desktop/итоговая работа/lessen/bin/Debug/net7.0/lessen.deps.json
+/Users/anna/Desktop/итоговая работа/lessen/bin/Debug/net7.0/lessen.runtimeconfig.json
+/Users/anna/Desktop/итоговая работа/lessen/bin/Debug/net7.0/lessen.dll
+/Users/anna/Desktop/итоговая работа/lessen/bin/Debug/net7.0/lessen.pdb
+/Users/anna/Desktop/итоговая работа/lessen/obj/Debug/net7.0/lessen.csproj.AssemblyReference.cache
+/Users/anna/Desktop/итоговая работа/lessen/obj/Debug/net7.0/lessen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anna/Desktop/итоговая работа/lessen/obj/Debug/net7.0/lessen.AssemblyInfoInputs.cache
+/Users/anna/Desktop/итоговая работа/lessen/obj/Debug/net7.0/lessen.AssemblyInfo.cs
+/Users/anna/Desktop/итоговая работа/lessen/obj/Debug/net7.0/lessen.csproj.CoreCompileInputs.cache
+/Users/anna/Desktop/итоговая работа/lessen/obj/Debug/net7.0/lessen.dll
+/Users/anna/Desktop/итоговая работа/lessen/obj/Debug/net7.0/refint/lessen.dll
+/Users/anna/Desktop/итоговая работа/lessen/obj/Debug/net7.0/lessen.pdb
+/Users/anna/Desktop/итоговая работа/lessen/obj/Debug/net7.0/lessen.genruntimeconfig.cache
+/Users/anna/Desktop/итоговая работа/lessen/obj/Debug/net7.0/ref/lessen.dll
